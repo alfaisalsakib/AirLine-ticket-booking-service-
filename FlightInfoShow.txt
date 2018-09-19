@@ -1,0 +1,59 @@
+Flight No      : VQ-951/952
+Departure time : 10:30
+Arrival time   : 11:15
+Departure place: Dhaka
+Arrival place  : Jessor
+
+Flight No      : VQ-931/914
+Departure time : 18:30
+Arrival time   : 19:20
+Departure place: Dhaka
+Arrival place  : Chittagong
+
+Flight No      : VQ-901/902
+Departure time : 07:15
+Arrival time   : 08:05
+Departure place: Chittagong
+Arrival place  : Dhaka
+
+Flight No      : VQ-901/902
+Departure time : 08:35
+Arrival time   : 09:25
+Departure place: Dhaka
+Arrival place  : Chittagong
+
+Flight No      : VQ-941/942
+Departure time : 8:15
+Arrival time   : 08:55
+Departure place: Dhaka
+Arrival place  : Syllet
+
+Flight No      : VQ-941/942
+Departure time : 09:25
+Arrival time   : 10:05
+Departure place: Syllet
+Arrival place  : Dhaka
+
+Flight No      : VQ-961/962
+Departure time : 09:30
+Arrival time   : 10:30
+Departure place: Dhaka
+Arrival place  : Barisal
+
+Flight No      : VQ-961/962
+Departure time : 11:00
+Arrival time   : 12:00
+Departure place: Barisal
+Arrival place  : Dhaka
+
+Flight No      : VQ-721/722
+Departure time : 14:25
+Arrival time   : 15:00
+Departure place: Dhaka
+Arrival place  : Rajshahi
+
+Flight No      : VQ-721/722
+Departure time : 16:00
+Arrival time   : 17:35
+Departure place: Rajshahi
+Arrival place  : Dhaka

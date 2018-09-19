@@ -1,0 +1,96 @@
+Name              :: Sakib
+Departure Place   :: Dhaka
+Destination Place :: Jessor
+Class             :: first
+Booking Date      :: 12 March
+Total Ticket      :: 2
+--------------------------------
+
+Name              :: Rafid
+Departure Place   :: Dhaka
+Destination Place :: Barisal
+Class             :: business
+Booking Date      :: 21 June
+Total Ticket      :: 3
+--------------------------------
+
+Name              :: Raju
+Departure Place   :: Dhaka
+Destination Place :: Chittagong
+Class             :: economy
+Booking Date      :: 24 Dec
+Total Ticket      :: 4
+--------------------------------
+
+Name              :: Taposhi
+Departure Place   :: Dhaka
+Destination Place :: Chittagong
+Class             :: first
+Booking Date      :: 21 June
+Total Ticket      :: 1
+--------------------------------
+
+Name              :: Galib
+Departure Place   :: Dhaka
+Destination Place :: Rajshahi
+Class             :: first
+Booking Date      :: 13 July
+Total Ticket      :: 1
+--------------------------------
+
+Name              :: Adnan
+Departure Place   :: Dhaka
+Destination Place :: Rajshahi
+Class             :: first
+Booking Date      :: 24 Feb
+Total Ticket      :: 1
+--------------------------------
+
+Name              :: Adnan
+Departure Place   :: Dhaka
+Destination Place :: Rajshahi
+Class             :: first
+Booking Date      :: 23 Feb
+Total Ticket      :: 1
+--------------------------------
+
+Name              :: Adnan
+Departure Place   :: Dhaka
+Destination Place :: Rajshahi
+Class             :: first
+Booking Date      :: 23 June
+Total Ticket      :: 1
+--------------------------------
+
+Name              :: Adnan
+Departure Place   :: Dhaka
+Destination Place :: Rajshahi
+Class             :: first
+Booking Date      :: 25 Feb
+Total Ticket      :: 1
+--------------------------------
+
+Name              :: Faisal
+Departure Place   :: Chittagong
+Destination Place :: Dhaka
+Class             :: frist
+Booking Date      :: 17 Aug
+Total Ticket      :: 1
+--------------------------------
+
+Name              :: Faisal
+Departure Place   :: Chittagong
+Destination Place :: Dhaka
+Class             :: first
+Booking Date      :: 17 Aug
+Total Ticket      :: 1
+--------------------------------
+
+Name              :: Juel
+Departure Place   :: Jessor
+Destination Place :: Chittagong
+Class             :: first
+Booking Date      :: 13 Sep
+Total Ticket      :: 1
+--------------------------------
+
